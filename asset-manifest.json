@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lukmantrue/lukmantrue.github.io/static/css/main.44f8b8b5.css",
+    "main.js": "/lukmantrue/lukmantrue.github.io/static/js/main.e4c6d0f6.js",
+    "service-worker.js": "/lukmantrue/lukmantrue.github.io/service-worker.js",
+    "index.html": "/lukmantrue/lukmantrue.github.io/index.html",
+    "main.44f8b8b5.css.map": "/lukmantrue/lukmantrue.github.io/static/css/main.44f8b8b5.css.map",
+    "main.e4c6d0f6.js.map": "/lukmantrue/lukmantrue.github.io/static/js/main.e4c6d0f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.e4c6d0f6.js"
+  ]
+}
